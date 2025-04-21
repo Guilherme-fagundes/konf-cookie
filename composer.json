@@ -1,0 +1,19 @@
+{
+    "name": "guilherme/konf-cookie",
+    "description": "A library manager cookie",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Guilherme\\KonfCookie\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme-fagundes",
+            "email": "guilhermekfagundes259@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
