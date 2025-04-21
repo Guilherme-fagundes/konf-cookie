@@ -1,6 +1,4 @@
-Perfeito! Aqui está o conteúdo completo do `README.md`, **tudo dentro de um bloco Markdown**, exatamente como você pediu — pronto para copiar e colar em um arquivo `README.md` no seu projeto:
 
-```markdown
 # KonfCookie
 
 **KonfCookie** is a simple and secure PHP class for managing HTTP cookies. It allows setting, getting, checking existence, deleting cookies, and retrieving all cookies in a straightforward manner.
