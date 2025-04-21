@@ -15,5 +15,14 @@
         }
     ],
     "minimum-stability": "stable",
+    "keywords": [
+    "cookie",
+    "http",
+    "php",
+    "session",
+    "manager",
+    "browser",
+    "konfcookie"
+  ],
     "require": {}
 }
