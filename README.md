@@ -139,5 +139,3 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 ## Contributing
 
 Contributions are welcome! Fork the repository, create a branch, and submit a pull request. For bugs or suggestions, open an issue.
-
-
